@@ -1,5 +1,7 @@
 # gog-rational
 
+> **Originality Notice:** This logic is developed by miyabi-works. All rights reserved. Patent Pending in Japan.
+
 ## Default Deny for AI Agents.
 
 Stopped 25 attack patterns. Zero code. Just specifications.
