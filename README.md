@@ -2,6 +2,9 @@
 
 ## Default Deny for AI Agents.
 
+Stopped 25 attack patterns. Zero code. Just specifications.
+[日本語README](README.md) | English version coming soon.
+
 既存のSKILL.mdは「どうやるか」を書いている。
 gog-rationalは「やっていいか」を書いている。
 
