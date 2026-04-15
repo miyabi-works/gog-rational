@@ -1,6 +1,6 @@
 # gog-rational 🛡️
 
-**Default Deny Strategy for Autonomous Agents** &nbsp;·&nbsp; 特許出願済み (JP) &nbsp;·&nbsp; MIT License
+**Default Deny Strategy for Autonomous Agents** &nbsp;·&nbsp;·&nbsp; MIT License
 
 ---
 
