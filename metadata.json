@@ -1,0 +1,10 @@
+{
+  "name": "gog-rational",
+  "description": "The Rational OS for AI Agents. A set of security-first skill definitions that enforce rules and validation before execution.",
+  "version": "0.1.0",
+  "author": "miyabi-works",
+  "license": "MIT",
+  "repository": "https://github.com/miyabi-works/gog-rational",
+  "categories": ["Security", "Guardrails"],
+  "tags": ["Safety", "Rational", "OpenClaw", "Anti-Injection", "Default-Deny", "Prompt-Injection"]
+}
