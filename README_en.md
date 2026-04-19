@@ -130,7 +130,7 @@ Each model has its own style, but **gog-rational's check structure was confirmed
 
 Conformance tests (verifying that legitimate requests are not incorrectly blocked) were also conducted, confirming that normal business operations pass through without issue.
 
-Detailed test logs → [en/tests/test-results.md](en/tests/test-results.md)
+Detailed test logs → [en/tests/test-results_en.md](en/tests/test-results_en.md)
 
 ---
 
