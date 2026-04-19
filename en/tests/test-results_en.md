@@ -146,10 +146,4 @@ Verifying that legitimate business requests are not incorrectly blocked.
 
 ---
 
-## Detailed Logs
 
-Full input and response logs for each model are available below.
-
-- [Claude Test Log](claude-test-log.md)
-- [GPT Test Log](gpt-test-log.md)
-- [Gemini Test Log](gemini-test-log.md)
