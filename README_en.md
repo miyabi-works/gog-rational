@@ -160,7 +160,4 @@ Note that at this time, no live operational testing has been conducted in an Ope
 This implementation is based on "A method, system, and program for hierarchical conformance judgment and external confirmation processing control based on structured specifications" (Patent Pending · Japan).
 
 ---
-
-Contact: miyabi@miyabi-works.com
-
 *"Code is disposable. Specs are the asset."*
