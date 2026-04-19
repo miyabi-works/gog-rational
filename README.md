@@ -159,6 +159,4 @@ gog-rationalは魔法の杖ではない。AIが照合プロセスを省略して
 
 ---
 
-お問い合わせ：miyabi@miyabi-works.com
-
 *「コードは使い捨て・仕様書が資産」*
